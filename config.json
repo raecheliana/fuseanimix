@@ -1,0 +1,9 @@
+{
+  "show_star_2": true,
+  "show_star_3": true,
+  "show_star_4": false,
+  "show_star_5": false,
+  "show_star_6": false,
+  "show_star_7": false,
+  "skip_existing_pet": false
+}
